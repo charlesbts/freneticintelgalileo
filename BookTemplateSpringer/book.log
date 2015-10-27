@@ -1,33 +1,41 @@
-This is XeTeX, Version 3.1415926-2.5-0.9999.3 (MiKTeX 2.9 64-bit) (preloaded format=xelatex 2015.9.16)  16 SEP 2015 17:47
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2015.6.13)  27 OCT 2015 00:30
 entering extended mode
-**book.tex
-(H:\Dropbox\Public\Galileo\Springer\monographs\templates\book.tex
+**C:/Users/Charles/Downloads/Fritzing*Galileo/freneticintelgalileo/BookTemplate
+Springer/book.tex
+
+("C:/Users/Charles/Downloads/Fritzing Galileo/freneticintelgalileo/BookTemplate
+Springer/book.tex"
 LaTeX2e <2011/06/27>
-Babel <v3.8m> and hyphenation patterns for english, afrikaans, ancientgreek, arabic, armenian, assamese, basque, bengali
-, bokmal, bulgarian, catalan, coptic, croatian, czech, danish, dutch, esperanto, estonian, farsi, finnish, french, galic
-ian, german, german-x-2013-05-26, greek, gujarati, hindi, hungarian, icelandic, indonesian, interlingua, irish, italian,
- kannada, kurmanji, latin, latvian, lithuanian, malayalam, marathi, mongolian, mongolianlmc, monogreek, ngerman, ngerman
--x-2013-05-26, nynorsk, oriya, panjabi, pinyin, polish, portuguese, romanian, russian, sanskrit, serbian, slovak, sloven
-ian, spanish, swedish, swissgerman, tamil, telugu, turkish, turkmen, ukenglish, ukrainian, uppersorbian, usenglishmax, w
-elsh, loaded.
-(H:\Dropbox\Public\Galileo\Springer\monographs\templates\svmono.cls
+Babel <v3.8m> and hyphenation patterns for english, afrikaans, ancientgreek, ar
+abic, armenian, assamese, basque, bengali, bokmal, bulgarian, catalan, coptic, 
+croatian, czech, danish, dutch, esperanto, estonian, farsi, finnish, french, ga
+lician, german, german-x-2013-05-26, greek, gujarati, hindi, hungarian, iceland
+ic, indonesian, interlingua, irish, italian, kannada, kurmanji, latin, latvian,
+ lithuanian, malayalam, marathi, mongolian, mongolianlmc, monogreek, ngerman, n
+german-x-2013-05-26, nynorsk, oriya, panjabi, pinyin, polish, portuguese, roman
+ian, russian, sanskrit, serbian, slovak, slovenian, spanish, swedish, swissgerm
+an, tamil, telugu, turkish, turkmen, ukenglish, ukrainian, uppersorbian, usengl
+ishmax, welsh, loaded.
+
+("C:\Users\Charles\Downloads\Fritzing Galileo\freneticintelgalileo\BookTemplate
+Springer\svmono.cls"
 Document Class: svmono 2009/12/17 v5.5 
 Springer Verlag global LaTeX document class for monographs
 Class Springer-SVMono Info: extra/valid Springer sub-package 
 (Springer-SVMono)           not found in option list - using "global" style.
-("C:\Program Files\MiKTeX 2.9\tex\latex\base\article.cls"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\article.cls"
 Document Class: article 2007/10/19 v1.4h Standard LaTeX document class
-("C:\Program Files\MiKTeX 2.9\tex\latex\base\size10.clo"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\size10.clo"
 File: size10.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
 )
-\c@part=\count80
-\c@section=\count81
-\c@subsection=\count82
-\c@subsubsection=\count83
-\c@paragraph=\count84
-\c@subparagraph=\count85
-\c@figure=\count86
-\c@table=\count87
+\c@part=\count79
+\c@section=\count80
+\c@subsection=\count81
+\c@subsubsection=\count82
+\c@paragraph=\count83
+\c@subparagraph=\count84
+\c@figure=\count85
+\c@table=\count86
 \abovecaptionskip=\skip41
 \belowcaptionskip=\skip42
 \bibindent=\dimen102
@@ -35,7 +43,7 @@ File: size10.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
 \svparindent=\dimen103
 \betweenumberspace=\dimen104
 \headlineindent=\dimen105
-\c@chapter=\count88
+\c@chapter=\count87
 \mottowidth=\dimen106
 \svitemindent=\dimen107
 \verbatimindent=\dimen108
@@ -62,41 +70,50 @@ LaTeX Font Info:    Redeclaring math symbol \Omega on input line 842.
 \tocsubparanum=\dimen118
 \foot@parindent=\dimen119
 \spthmsep=\dimen120
-\c@theorem=\count89
-\c@case=\count90
-\c@conjecture=\count91
-\c@corollary=\count92
-\c@definition=\count93
-\c@example=\count94
-\c@exercise=\count95
-\c@lemma=\count96
-\c@note=\count97
-\c@problem=\count98
-\c@property=\count99
-\c@proposition=\count100
-\c@question=\count101
-\c@solution=\count102
-\c@remark=\count103
-\c@prob=\count104
+\c@theorem=\count88
+\c@case=\count89
+\c@conjecture=\count90
+\c@corollary=\count91
+\c@definition=\count92
+\c@example=\count93
+\c@exercise=\count94
+\c@lemma=\count95
+\c@note=\count96
+\c@problem=\count97
+\c@property=\count98
+\c@proposition=\count99
+\c@question=\count100
+\c@solution=\count101
+\c@remark=\count102
+\c@prob=\count103
 \instindent=\dimen121
 \figgap=\dimen122
 \bildb@x=\box26
 \figcapgap=\dimen123
 \tabcapgap=\dimen124
-\c@merk=\count105
+\c@merk=\count104
 LaTeX Info: Redefining \abstract on input line 1894.
-) ("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\color.sty"
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\color.sty"
 Package: color 2005/11/14 v1.0j Standard LaTeX Color (DPC)
 
-("C:\Program Files\MiKTeX 2.9\tex\latex\00miktex\color.cfg"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\00miktex\color.cfg"
 File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
 )
-Package color Info: Driver file: xetex.def on input line 130.
+Package color Info: Driver file: pdftex.def on input line 130.
 
-(C:\Users\Alexandre\AppData\Roaming\MiKTeX\2.9\tex\xelatex\xetex-def\xetex.def
-File: xetex.def 2015/03/25 v4.04 LaTeX color/graphics driver for XeTeX (TeX Live/RRM/JK)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\pdftex-def\pdftex.def"
+File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\infwarerr.sty"
+Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\ltxcmds.sty"
+Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count105
 ))
-(C:\Users\Alexandre\AppData\Roaming\MiKTeX\2.9\tex\latex\framed\framed.sty
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\framed\framed.sty"
 Package: framed 2011/10/22 v 0.96: framed or shaded text with page breaks
 \OuterFrameSep=\skip43
 \fb@frw=\dimen125
@@ -104,7 +121,7 @@ Package: framed 2011/10/22 v 0.96: framed or shaded text with page breaks
 \FrameRule=\dimen127
 \FrameSep=\dimen128
 )
-("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\mathptmx.sty"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\psnfss\mathptmx.sty"
 Package: mathptmx 2005/04/12 PSNFSS-v9.2a Times w/ Math, improved (SPQR, WaS) 
 LaTeX Font Info:    Redeclaring symbol font `operators' on input line 28.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
@@ -139,33 +156,42 @@ LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
 (Font)                  OT1/cmr/bx/it --> OT1/ptm/m/it on input line 35.
 LaTeX Info: Redefining \hbar on input line 50.
-) ("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\helvet.sty"
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\psnfss\helvet.sty"
 Package: helvet 2005/04/12 PSNFSS-v9.2a (WaS) 
-("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\keyval.sty"
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\keyval.sty"
 Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
 \KV@toks@=\toks14
-)) ("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\courier.sty"
+))
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\psnfss\courier.sty"
 Package: courier 2005/04/12 PSNFSS-v9.2a (WaS) 
-) (C:\Users\Alexandre\AppData\Roaming\MiKTeX\2.9\tex\latex\type1cm\type1cm.sty
-Package: type1cm 2002/09/05 v0.04 BlueSky/Y&Y Type1 CM font definitions (DPC, patched RF)
 )
-("C:\Program Files\MiKTeX 2.9\tex\latex\base\makeidx.sty"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\type1cm\type1cm.sty"
+Package: type1cm 2002/09/05 v0.04 BlueSky/Y&Y Type1 CM font definitions (DPC, p
+atched RF)
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\makeidx.sty"
 Package: makeidx 2000/03/29 v1.0m Standard LaTeX package
-) ("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\graphicx.sty"
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\graphicx.sty"
 Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
- ("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\graphics.sty"
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\graphics.sty"
 Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
 
-("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\trig.sty"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\trig.sty"
 Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
-) ("C:\Program Files\MiKTeX 2.9\tex\latex\00miktex\graphics.cfg"
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\00miktex\graphics.cfg"
 File: graphics.cfg 2007/01/18 v1.5 graphics configuration of teTeX/TeXLive
 )
-Package graphics Info: Driver file: xetex.def on input line 91.
+Package graphics Info: Driver file: pdftex.def on input line 91.
 )
 \Gin@req@height=\dimen129
 \Gin@req@width=\dimen130
-) ("C:\Program Files\MiKTeX 2.9\tex\latex\tools\multicol.sty"
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\tools\multicol.sty"
 Package: multicol 2011/06/27 v1.7a multicolumn formatting (FMi)
 \c@tracingmulticols=\count106
 \mult@box=\box27
@@ -213,7 +239,7 @@ Package: multicol 2011/06/27 v1.7a multicolumn formatting (FMi)
 \colbreak@box=\box52
 \multicol@sort@counter=\count114
 )
-(C:\Users\Alexandre\AppData\Roaming\MiKTeX\2.9\tex\latex\footmisc\footmisc.sty
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\footmisc\footmisc.sty"
 Package: footmisc 2011/06/06 v5.5b a miscellany of footnote facilities
 \FN@temptoken=\toks15
 \footnotemargin=\dimen139
@@ -222,81 +248,422 @@ Package footmisc Info: Declaring symbol style bringhurst on input line 855.
 Package footmisc Info: Declaring symbol style chicago on input line 863.
 Package footmisc Info: Declaring symbol style wiley on input line 872.
 Package footmisc Info: Declaring symbol style lamport-robust on input line 883.
+
 Package footmisc Info: Declaring symbol style lamport* on input line 903.
-Package footmisc Info: Declaring symbol style lamport*-robust on input line 924.
+Package footmisc Info: Declaring symbol style lamport*-robust on input line 924
+.
 )
-("C:\Program Files\MiKTeX 2.9\tex\generic\babel\babel.sty"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\fontenc.sty"
+Package: fontenc 2005/09/27 v1.99g Standard LaTeX package
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\t1enc.def"
+File: t1enc.def 2005/09/27 v1.99g Standard LaTeX file
+LaTeX Font Info:    Redeclaring font encoding T1 on input line 43.
+))
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\inputenc.sty"
+Package: inputenc 2008/03/30 v1.1d Input encoding file
+\inpenc@prehook=\toks16
+\inpenc@posthook=\toks17
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\utf8.def"
+File: utf8.def 2008/04/05 v1.1m UTF-8 support for inputenc
+Now handling font encoding OML ...
+... no UTF-8 mapping file for font encoding OML
+Now handling font encoding T1 ...
+... processing UTF-8 mapping file for font encoding T1
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\t1enc.dfu"
+File: t1enc.dfu 2008/04/05 v1.1m UTF-8 support for inputenc
+   defining Unicode char U+00A1 (decimal 161)
+   defining Unicode char U+00A3 (decimal 163)
+   defining Unicode char U+00AB (decimal 171)
+   defining Unicode char U+00BB (decimal 187)
+   defining Unicode char U+00BF (decimal 191)
+   defining Unicode char U+00C0 (decimal 192)
+   defining Unicode char U+00C1 (decimal 193)
+   defining Unicode char U+00C2 (decimal 194)
+   defining Unicode char U+00C3 (decimal 195)
+   defining Unicode char U+00C4 (decimal 196)
+   defining Unicode char U+00C5 (decimal 197)
+   defining Unicode char U+00C6 (decimal 198)
+   defining Unicode char U+00C7 (decimal 199)
+   defining Unicode char U+00C8 (decimal 200)
+   defining Unicode char U+00C9 (decimal 201)
+   defining Unicode char U+00CA (decimal 202)
+   defining Unicode char U+00CB (decimal 203)
+   defining Unicode char U+00CC (decimal 204)
+   defining Unicode char U+00CD (decimal 205)
+   defining Unicode char U+00CE (decimal 206)
+   defining Unicode char U+00CF (decimal 207)
+   defining Unicode char U+00D0 (decimal 208)
+   defining Unicode char U+00D1 (decimal 209)
+   defining Unicode char U+00D2 (decimal 210)
+   defining Unicode char U+00D3 (decimal 211)
+   defining Unicode char U+00D4 (decimal 212)
+   defining Unicode char U+00D5 (decimal 213)
+   defining Unicode char U+00D6 (decimal 214)
+   defining Unicode char U+00D8 (decimal 216)
+   defining Unicode char U+00D9 (decimal 217)
+   defining Unicode char U+00DA (decimal 218)
+   defining Unicode char U+00DB (decimal 219)
+   defining Unicode char U+00DC (decimal 220)
+   defining Unicode char U+00DD (decimal 221)
+   defining Unicode char U+00DE (decimal 222)
+   defining Unicode char U+00DF (decimal 223)
+   defining Unicode char U+00E0 (decimal 224)
+   defining Unicode char U+00E1 (decimal 225)
+   defining Unicode char U+00E2 (decimal 226)
+   defining Unicode char U+00E3 (decimal 227)
+   defining Unicode char U+00E4 (decimal 228)
+   defining Unicode char U+00E5 (decimal 229)
+   defining Unicode char U+00E6 (decimal 230)
+   defining Unicode char U+00E7 (decimal 231)
+   defining Unicode char U+00E8 (decimal 232)
+   defining Unicode char U+00E9 (decimal 233)
+   defining Unicode char U+00EA (decimal 234)
+   defining Unicode char U+00EB (decimal 235)
+   defining Unicode char U+00EC (decimal 236)
+   defining Unicode char U+00ED (decimal 237)
+   defining Unicode char U+00EE (decimal 238)
+   defining Unicode char U+00EF (decimal 239)
+   defining Unicode char U+00F0 (decimal 240)
+   defining Unicode char U+00F1 (decimal 241)
+   defining Unicode char U+00F2 (decimal 242)
+   defining Unicode char U+00F3 (decimal 243)
+   defining Unicode char U+00F4 (decimal 244)
+   defining Unicode char U+00F5 (decimal 245)
+   defining Unicode char U+00F6 (decimal 246)
+   defining Unicode char U+00F8 (decimal 248)
+   defining Unicode char U+00F9 (decimal 249)
+   defining Unicode char U+00FA (decimal 250)
+   defining Unicode char U+00FB (decimal 251)
+   defining Unicode char U+00FC (decimal 252)
+   defining Unicode char U+00FD (decimal 253)
+   defining Unicode char U+00FE (decimal 254)
+   defining Unicode char U+00FF (decimal 255)
+   defining Unicode char U+0102 (decimal 258)
+   defining Unicode char U+0103 (decimal 259)
+   defining Unicode char U+0104 (decimal 260)
+   defining Unicode char U+0105 (decimal 261)
+   defining Unicode char U+0106 (decimal 262)
+   defining Unicode char U+0107 (decimal 263)
+   defining Unicode char U+010C (decimal 268)
+   defining Unicode char U+010D (decimal 269)
+   defining Unicode char U+010E (decimal 270)
+   defining Unicode char U+010F (decimal 271)
+   defining Unicode char U+0110 (decimal 272)
+   defining Unicode char U+0111 (decimal 273)
+   defining Unicode char U+0118 (decimal 280)
+   defining Unicode char U+0119 (decimal 281)
+   defining Unicode char U+011A (decimal 282)
+   defining Unicode char U+011B (decimal 283)
+   defining Unicode char U+011E (decimal 286)
+   defining Unicode char U+011F (decimal 287)
+   defining Unicode char U+0130 (decimal 304)
+   defining Unicode char U+0131 (decimal 305)
+   defining Unicode char U+0132 (decimal 306)
+   defining Unicode char U+0133 (decimal 307)
+   defining Unicode char U+0139 (decimal 313)
+   defining Unicode char U+013A (decimal 314)
+   defining Unicode char U+013D (decimal 317)
+   defining Unicode char U+013E (decimal 318)
+   defining Unicode char U+0141 (decimal 321)
+   defining Unicode char U+0142 (decimal 322)
+   defining Unicode char U+0143 (decimal 323)
+   defining Unicode char U+0144 (decimal 324)
+   defining Unicode char U+0147 (decimal 327)
+   defining Unicode char U+0148 (decimal 328)
+   defining Unicode char U+014A (decimal 330)
+   defining Unicode char U+014B (decimal 331)
+   defining Unicode char U+0150 (decimal 336)
+   defining Unicode char U+0151 (decimal 337)
+   defining Unicode char U+0152 (decimal 338)
+   defining Unicode char U+0153 (decimal 339)
+   defining Unicode char U+0154 (decimal 340)
+   defining Unicode char U+0155 (decimal 341)
+   defining Unicode char U+0158 (decimal 344)
+   defining Unicode char U+0159 (decimal 345)
+   defining Unicode char U+015A (decimal 346)
+   defining Unicode char U+015B (decimal 347)
+   defining Unicode char U+015E (decimal 350)
+   defining Unicode char U+015F (decimal 351)
+   defining Unicode char U+0160 (decimal 352)
+   defining Unicode char U+0161 (decimal 353)
+   defining Unicode char U+0162 (decimal 354)
+   defining Unicode char U+0163 (decimal 355)
+   defining Unicode char U+0164 (decimal 356)
+   defining Unicode char U+0165 (decimal 357)
+   defining Unicode char U+016E (decimal 366)
+   defining Unicode char U+016F (decimal 367)
+   defining Unicode char U+0170 (decimal 368)
+   defining Unicode char U+0171 (decimal 369)
+   defining Unicode char U+0178 (decimal 376)
+   defining Unicode char U+0179 (decimal 377)
+   defining Unicode char U+017A (decimal 378)
+   defining Unicode char U+017B (decimal 379)
+   defining Unicode char U+017C (decimal 380)
+   defining Unicode char U+017D (decimal 381)
+   defining Unicode char U+017E (decimal 382)
+   defining Unicode char U+200C (decimal 8204)
+   defining Unicode char U+2013 (decimal 8211)
+   defining Unicode char U+2014 (decimal 8212)
+   defining Unicode char U+2018 (decimal 8216)
+   defining Unicode char U+2019 (decimal 8217)
+   defining Unicode char U+201A (decimal 8218)
+   defining Unicode char U+201C (decimal 8220)
+   defining Unicode char U+201D (decimal 8221)
+   defining Unicode char U+201E (decimal 8222)
+   defining Unicode char U+2030 (decimal 8240)
+   defining Unicode char U+2031 (decimal 8241)
+   defining Unicode char U+2039 (decimal 8249)
+   defining Unicode char U+203A (decimal 8250)
+   defining Unicode char U+2423 (decimal 9251)
+)
+Now handling font encoding OT1 ...
+... processing UTF-8 mapping file for font encoding OT1
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\ot1enc.dfu"
+File: ot1enc.dfu 2008/04/05 v1.1m UTF-8 support for inputenc
+   defining Unicode char U+00A1 (decimal 161)
+   defining Unicode char U+00A3 (decimal 163)
+   defining Unicode char U+00B8 (decimal 184)
+   defining Unicode char U+00BF (decimal 191)
+   defining Unicode char U+00C5 (decimal 197)
+   defining Unicode char U+00C6 (decimal 198)
+   defining Unicode char U+00D8 (decimal 216)
+   defining Unicode char U+00DF (decimal 223)
+   defining Unicode char U+00E6 (decimal 230)
+   defining Unicode char U+00EC (decimal 236)
+   defining Unicode char U+00ED (decimal 237)
+   defining Unicode char U+00EE (decimal 238)
+   defining Unicode char U+00EF (decimal 239)
+   defining Unicode char U+00F8 (decimal 248)
+   defining Unicode char U+0131 (decimal 305)
+   defining Unicode char U+0141 (decimal 321)
+   defining Unicode char U+0142 (decimal 322)
+   defining Unicode char U+0152 (decimal 338)
+   defining Unicode char U+0153 (decimal 339)
+   defining Unicode char U+2013 (decimal 8211)
+   defining Unicode char U+2014 (decimal 8212)
+   defining Unicode char U+2018 (decimal 8216)
+   defining Unicode char U+2019 (decimal 8217)
+   defining Unicode char U+201C (decimal 8220)
+   defining Unicode char U+201D (decimal 8221)
+)
+Now handling font encoding OMS ...
+... processing UTF-8 mapping file for font encoding OMS
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\omsenc.dfu"
+File: omsenc.dfu 2008/04/05 v1.1m UTF-8 support for inputenc
+   defining Unicode char U+00A7 (decimal 167)
+   defining Unicode char U+00B6 (decimal 182)
+   defining Unicode char U+00B7 (decimal 183)
+   defining Unicode char U+2020 (decimal 8224)
+   defining Unicode char U+2021 (decimal 8225)
+   defining Unicode char U+2022 (decimal 8226)
+)
+Now handling font encoding OMX ...
+... no UTF-8 mapping file for font encoding OMX
+Now handling font encoding U ...
+... no UTF-8 mapping file for font encoding U
+   defining Unicode char U+00A9 (decimal 169)
+   defining Unicode char U+00AA (decimal 170)
+   defining Unicode char U+00AE (decimal 174)
+   defining Unicode char U+00BA (decimal 186)
+   defining Unicode char U+02C6 (decimal 710)
+   defining Unicode char U+02DC (decimal 732)
+   defining Unicode char U+200C (decimal 8204)
+   defining Unicode char U+2026 (decimal 8230)
+   defining Unicode char U+2122 (decimal 8482)
+   defining Unicode char U+2423 (decimal 9251)
+))
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\babel\babel.sty"
 Package: babel 2008/07/08 v3.8m The Babel package
 
 *************************************
 * Local config file bblopts.cfg used
 *
-("C:\Program Files\MiKTeX 2.9\tex\latex\00miktex\bblopts.cfg"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\00miktex\bblopts.cfg"
 File: bblopts.cfg 2006/07/31 v1.0 MiKTeX 'babel' configuration
 )
-("C:\Program Files\MiKTeX 2.9\tex\generic\babel\portuges.ldf"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\babel\portuges.ldf"
 Language: portuges 2008/03/18 v1.2q Portuguese support from the babel system
- ("C:\Program Files\MiKTeX 2.9\tex\generic\babel\babel.def"
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\babel\babel.def"
 File: babel.def 2008/07/08 v3.8m Babel common definitions
 \babel@savecnt=\count116
 \U@D=\dimen140
 )
-\l@brazil = a dialect from \language\l@portuges 
 Package babel Info: Making " an active character on input line 145.
-)) ("C:\Program Files\MiKTeX 2.9\tex\latex\base\fontenc.sty"
-Package: fontenc 2005/09/27 v1.99g Standard LaTeX package
- ("C:\Program Files\MiKTeX 2.9\tex\latex\base\t1enc.def"
-File: t1enc.def 2005/09/27 v1.99g Standard LaTeX file
-LaTeX Font Info:    Redeclaring font encoding T1 on input line 43.
 ))
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\oberdiek\listingsutf8.sty"
+Package: listingsutf8 2011/11/10 v1.2 Allow UTF-8 in listings input (HO)
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\listings\listings.sty"
+\lst@mode=\count117
+\lst@gtempboxa=\box53
+\lst@token=\toks18
+\lst@length=\count118
+\lst@currlwidth=\dimen141
+\lst@column=\count119
+\lst@pos=\count120
+\lst@lostspace=\dimen142
+\lst@width=\dimen143
+\lst@newlines=\count121
+\lst@lineno=\count122
+\lst@maxwidth=\dimen144
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\listings\lstmisc.sty"
+File: lstmisc.sty 2015/06/04 1.6 (Carsten Heinz)
+\c@lstnumber=\count123
+\lst@skipnumbers=\count124
+\lst@framebox=\box54
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\listings\listings.cfg"
+File: listings.cfg 2015/06/04 1.6 listings configuration
+))
+Package: listings 2015/06/04 1.6 (Carsten Heinz)
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\pdftexcmds.sty"
+Package: pdftexcmds 2011/11/29 v0.20 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\ifluatex.sty"
+Package: ifluatex 2010/03/01 v1.3 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\ifpdf.sty"
+Package: ifpdf 2011/01/30 v2.3 Provides the ifpdf switch (HO)
+Package ifpdf Info: pdfTeX in PDF mode is detected.
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\stringenc.sty"
+Package: stringenc 2011/12/02 v1.10 Convert strings between diff. encodings (HO
+)
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\pdfescape.sty"
+Package: pdfescape 2011/11/25 v1.13 Implements pdfTeX's escape features (HO)
+)))
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\oberdiek\epstopdf.sty"
+Package: epstopdf 2010/02/09 v2.5 Conversion with epstopdf on the fly (HO)
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\oberdiek\epstopdf-base.sty"
+Package: epstopdf-base 2010/02/09 v2.5 Base part for package epstopdf
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\oberdiek\grfext.sty"
+Package: grfext 2010/08/19 v1.1 Manage graphics extensions (HO)
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\kvdefinekeys.sty"
+Package: kvdefinekeys 2011/04/07 v1.3 Define keys (HO)
+))
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\oberdiek\kvoptions.sty"
+Package: kvoptions 2011/06/30 v3.11 Key value format for package options (HO)
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\kvsetkeys.sty"
+Package: kvsetkeys 2012/04/25 v1.16 Key value parser (HO)
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\etexcmds.sty"
+Package: etexcmds 2011/02/16 v1.5 Avoid name clashes with e-TeX commands (HO)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+)))
+Package grfext Info: Graphics extension search list:
+(grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 452.
+))
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\listings\lstlang1.sty"
+File: lstlang1.sty 2015/06/04 1.6 listings language file
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\listings\lstmisc.sty"
+File: lstmisc.sty 2015/06/04 1.6 (Carsten Heinz)
+)
 \@indexfile=\write3
 
 Writing index file book.idx
-(H:\Dropbox\Public\Galileo\Springer\monographs\templates\book.aux
-(H:\Dropbox\Public\Galileo\Springer\monographs\templates\dedic.aux)
-(H:\Dropbox\Public\Galileo\Springer\monographs\templates\foreword.aux)
-(H:\Dropbox\Public\Galileo\Springer\monographs\templates\preface.aux)
-(H:\Dropbox\Public\Galileo\Springer\monographs\templates\acknow.aux)
-(H:\Dropbox\Public\Galileo\Springer\monographs\templates\acronym.aux)
-(H:\Dropbox\Public\Galileo\Springer\monographs\templates\part.aux)
-(H:\Dropbox\Public\Galileo\Springer\monographs\templates\chapter.aux)
-(H:\Dropbox\Public\Galileo\Springer\monographs\templates\appendix.aux)
-(H:\Dropbox\Public\Galileo\Springer\monographs\templates\glossary.aux)
-(H:\Dropbox\Public\Galileo\Springer\monographs\templates\solutions.aux))
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 42.
-LaTeX Font Info:    ... okay on input line 42.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 42.
-LaTeX Font Info:    ... okay on input line 42.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 42.
-LaTeX Font Info:    ... okay on input line 42.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 42.
-LaTeX Font Info:    ... okay on input line 42.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 42.
-LaTeX Font Info:    ... okay on input line 42.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 42.
-LaTeX Font Info:    ... okay on input line 42.
-LaTeX Font Info:    Try loading font information for T1+ptm on input line 42.
 
-("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\t1ptm.fd"
+("C:\Users\Charles\Downloads\Fritzing Galileo\freneticintelgalileo\BookTemplate
+Springer\book.aux"
+("C:\Users\Charles\Downloads\Fritzing Galileo\freneticintelgalileo\BookTemplate
+Springer\dedic.aux")
+("C:\Users\Charles\Downloads\Fritzing Galileo\freneticintelgalileo\BookTemplate
+Springer\foreword.aux")
+("C:\Users\Charles\Downloads\Fritzing Galileo\freneticintelgalileo\BookTemplate
+Springer\preface.aux")
+("C:\Users\Charles\Downloads\Fritzing Galileo\freneticintelgalileo\BookTemplate
+Springer\acknow.aux")
+("C:\Users\Charles\Downloads\Fritzing Galileo\freneticintelgalileo\BookTemplate
+Springer\acronym.aux")
+("C:\Users\Charles\Downloads\Fritzing Galileo\freneticintelgalileo\BookTemplate
+Springer\part.aux")
+("C:\Users\Charles\Downloads\Fritzing Galileo\freneticintelgalileo\BookTemplate
+Springer\chapter.aux")
+("C:\Users\Charles\Downloads\Fritzing Galileo\freneticintelgalileo\BookTemplate
+Springer\lab2_charles/lab2.aux")
+("C:\Users\Charles\Downloads\Fritzing Galileo\freneticintelgalileo\BookTemplate
+Springer\appendix.aux")
+("C:\Users\Charles\Downloads\Fritzing Galileo\freneticintelgalileo\BookTemplate
+Springer\glossary.aux")
+("C:\Users\Charles\Downloads\Fritzing Galileo\freneticintelgalileo\BookTemplate
+Springer\solutions.aux"))
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 112.
+LaTeX Font Info:    ... okay on input line 112.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 112.
+LaTeX Font Info:    ... okay on input line 112.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 112.
+LaTeX Font Info:    ... okay on input line 112.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 112.
+LaTeX Font Info:    ... okay on input line 112.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 112.
+LaTeX Font Info:    ... okay on input line 112.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 112.
+LaTeX Font Info:    ... okay on input line 112.
+LaTeX Font Info:    Try loading font information for T1+ptm on input line 112.
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\psnfss\t1ptm.fd"
 File: t1ptm.fd 2001/06/04 font definitions for T1/ptm.
 )
-\big@size=\dimen141
+("C:\Program Files (x86)\MiKTeX 2.9\tex\context\base\supp-pdf.mkii"
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count125
+\scratchdimen=\dimen145
+\scratchbox=\box55
+\nofMPsegments=\count126
+\nofMParguments=\count127
+\everyMPshowfont=\toks19
+\MPscratchCnt=\count128
+\MPscratchDim=\dimen146
+\MPnumerator=\count129
+\makeMPintoPDFobject=\count130
+\everyMPtoPDFconversion=\toks20
+)
+\big@size=\dimen147
+\c@lstlisting=\count131
 
-Underfull \hbox (badness 10000) in paragraph at lines 47--47
+Underfull \hbox (badness 10000) in paragraph at lines 117--117
 
  []
 
 [1
 
-] [2
+{C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map}] [2
 
 
-] (H:\Dropbox\Public\Galileo\Springer\monographs\templates\dedic.tex [5
+]
+("C:\Users\Charles\Downloads\Fritzing Galileo\freneticintelgalileo\BookTemplate
+Springer\dedic.tex" [5
 
 
 
 ])
-(H:\Dropbox\Public\Galileo\Springer\monographs\templates\foreword.tex [6
+("C:\Users\Charles\Downloads\Fritzing Galileo\freneticintelgalileo\BookTemplate
+Springer\foreword.tex" [6
 
 
 
@@ -309,13 +676,16 @@ LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <16> not available
 
 Package mathptmx Warning: There are no bold math fonts on input line 9.
 
-) [7] (H:\Dropbox\Public\Galileo\Springer\monographs\templates\preface.tex [8
+) [7]
+("C:\Users\Charles\Downloads\Fritzing Galileo\freneticintelgalileo\BookTemplate
+Springer\preface.tex" [8
 
 
 
 
 ]) [9]
-(H:\Dropbox\Public\Galileo\Springer\monographs\templates\acknow.tex [10
+("C:\Users\Charles\Downloads\Fritzing Galileo\freneticintelgalileo\BookTemplate
+Springer\acknow.tex" [10
 
 
 
@@ -325,28 +695,37 @@ Package mathptmx Warning: There are no bold math fonts on input line 9.
 
 
 ]
-(H:\Dropbox\Public\Galileo\Springer\monographs\templates\book.toc
+("C:\Users\Charles\Downloads\Fritzing Galileo\freneticintelgalileo\BookTemplate
+Springer\book.toc"
 LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <10> not available
 (Font)              Font shape `T1/ptm/b/n' tried instead on input line 2.
 LaTeX Font Info:    Try loading font information for OT1+ztmcm on input line 3.
 
-("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\ot1ztmcm.fd"
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\psnfss\ot1ztmcm.fd"
 File: ot1ztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OT1/ztmcm.
 )
 LaTeX Font Info:    Try loading font information for OML+ztmcm on input line 3.
- ("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\omlztmcm.fd"
+
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\psnfss\omlztmcm.fd"
 File: omlztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OML/ztmcm.
 )
 LaTeX Font Info:    Try loading font information for OMS+ztmcm on input line 3.
- ("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\omsztmcm.fd"
+
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\psnfss\omsztmcm.fd"
 File: omsztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OMS/ztmcm.
 )
 LaTeX Font Info:    Try loading font information for OMX+ztmcm on input line 3.
- ("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\omxztmcm.fd"
+
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\psnfss\omxztmcm.fd"
 File: omxztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OMX/ztmcm.
 )
 LaTeX Font Info:    Try loading font information for OT1+ptm on input line 3.
- ("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\ot1ptm.fd"
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\psnfss\ot1ptm.fd"
 File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
 )
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10> not available
@@ -358,21 +737,23 @@ LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <6> not available
 )
 \tf@toc=\write4
  [13]
-(H:\Dropbox\Public\Galileo\Springer\monographs\templates\acronym.tex [14
+("C:\Users\Charles\Downloads\Fritzing Galileo\freneticintelgalileo\BookTemplate
+Springer\acronym.tex" [14
 
 
 
 ]
 LaTeX Font Info:    Try loading font information for T1+pcr on input line 12.
 
-("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\t1pcr.fd"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\psnfss\t1pcr.fd"
 File: t1pcr.fd 2001/06/04 font definitions for T1/pcr.
 )) [15] [16
 
 
 
 ]
-(H:\Dropbox\Public\Galileo\Springer\monographs\templates\part.tex
+("C:\Users\Charles\Downloads\Fritzing Galileo\freneticintelgalileo\BookTemplate
+Springer\part.tex"
 LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <18> not available
 (Font)              Font shape `T1/ptm/b/n' tried instead on input line 10.
  [1
@@ -380,52 +761,137 @@ LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <18> not available
 
 
 ] [2])
-(H:\Dropbox\Public\Galileo\Springer\monographs\templates\chapter.tex
+("C:\Users\Charles\Downloads\Fritzing Galileo\freneticintelgalileo\BookTemplate
+Springer\chapter.tex"
 Cap\'{\i }tulo 1.
 LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <14> not available
 (Font)              Font shape `T1/ptm/b/n' tried instead on input line 9.
 LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <12> not available
 (Font)              Font shape `T1/ptm/b/n' tried instead on input line 20.
+
+("C:\Users\Charles\Downloads\Fritzing Galileo\freneticintelgalileo\BookTemplate
+Springer\zigzagscan.ino")
+LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <8.5> not available
+(Font)              Font shape `T1/ptm/b/n' tried instead on input line 24.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+LaTeX Font Info:    Calculating math sizes for size <8.5> on input line 44.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <8.5> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 44.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <6.29004> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 44.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <5.10005> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 44.
+LaTeX Font Info:    Font shape `T1/ptm/bx/it' in size <8.5> not available
+(Font)              Font shape `T1/ptm/b/it' tried instead on input line 44.
 [3
 
 
 
 
-]
-LaTeX Font Info:    Calculating math sizes for size <8.5> on input line 42.
-LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <8.5> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 42.
-LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <6.29004> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 42.
-LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <5.10005> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 42.
-LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <8.5> not available
-(Font)              Font shape `T1/ptm/b/n' tried instead on input line 42.
-LaTeX Font Info:    Font shape `T1/ptm/bx/it' in size <8.5> not available
-(Font)              Font shape `T1/ptm/b/it' tried instead on input line 42.
+] [4]
 LaTeX Font Info:    Font shape `T1/ptm/bx/it' in size <12> not available
-(Font)              Font shape `T1/ptm/b/it' tried instead on input line 49.
-File: figure.eps Graphic file (type eps)
- <figure.eps> [4]
-LaTeX Font Info:    Try loading font information for OMS+ptm on input line 104.
- ("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\omsptm.fd"
+(Font)              Font shape `T1/ptm/b/it' tried instead on input line 51.
+Package epstopdf Info: Source file: <figure.eps>
+(epstopdf)                    date: 2015-10-27 00:00:54
+(epstopdf)                    size: 65249 bytes
+(epstopdf)             Output file: <figure-eps-converted-to.pdf>
+(epstopdf)                    date: 2015-10-27 00:03:19
+(epstopdf)                    size: 13935 bytes
+(epstopdf)             Command: <epstopdf --outfile=figure-eps-converted-to.pdf
+ figure.eps>
+(epstopdf)             \includegraphics on input line 77.
+Package epstopdf Info: Output file is already uptodate.
+ <figure-eps-converted-to.pdf, id=66, 139.52126pt x 195.73125pt>
+File: figure-eps-converted-to.pdf Graphic file (type pdf)
+
+<use figure-eps-converted-to.pdf>
+Package pdftex.def Info: figure-eps-converted-to.pdf used on input line 77.
+(pdftex.def)             Requested size: 90.68773pt x 127.22379pt.
+ [5 <C:/Users/Charles/Downloads/Fritzing Galileo/freneticintelgalileo/BookTempl
+ateSpringer/figure-eps-converted-to.pdf>]
+LaTeX Font Info:    Try loading font information for OMS+ptm on input line 106.
+
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\psnfss\omsptm.fd"
 File: omsptm.fd 
 )
 LaTeX Font Info:    Font shape `OMS/ptm/m/n' in size <10> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 104.
-File: figure.eps Graphic file (type eps)
- <figure.eps> [5]
-Overfull \hbox (0.61853pt too wide) in paragraph at lines 139--150
-[][]
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 106.
+Package epstopdf Info: Source file: <figure.eps>
+(epstopdf)                    date: 2015-10-27 00:00:54
+(epstopdf)                    size: 65249 bytes
+(epstopdf)             Output file: <figure-eps-converted-to.pdf>
+(epstopdf)                    date: 2015-10-27 00:03:19
+(epstopdf)                    size: 13935 bytes
+(epstopdf)             Command: <epstopdf --outfile=figure-eps-converted-to.pdf
+ figure.eps>
+(epstopdf)             \includegraphics on input line 124.
+Package epstopdf Info: Output file is already uptodate.
+File: figure-eps-converted-to.pdf Graphic file (type pdf)
+
+<use figure-eps-converted-to.pdf>
+Package pdftex.def Info: figure-eps-converted-to.pdf used on input line 124.
+(pdftex.def)             Requested size: 90.68773pt x 127.22379pt.
+ [6] [7] [8]
+("C:\Users\Charles\Downloads\Fritzing Galileo\freneticintelgalileo\BookTemplate
+Springer\referenc.tex"
+
+LaTeX Warning: Citation `humlinphil-DOI' on page 9 undefined on input line 28.
+
+[9]
+Underfull \hbox (badness 1102) in paragraph at lines 137--140
+[]\T1/ptm/m/n/8.5 Slifka MK, Whit-ton JL (2000) Cli-ni-cal im-pli-ca-ti-ons of 
+dys-re-gu-la-ted cy-to-kine pro-duc-tion. J Mol Med, doi:
  []
 
-[6] [7] (H:\Dropbox\Public\Galileo\Springer\monographs\templates\referenc.tex
-Overfull \hbox (6.07993pt too wide) in paragraph at lines 28--28
-[]\T1/ptm/m/n/10 References may be \T1/ptm/m/it/10 ci-ted \T1/ptm/m/n/10 in the text either by num-ber (pre-fer-red) or 
-by author/year.[]
+)) [10]
+("C:\Users\Charles\Downloads\Fritzing Galileo\freneticintelgalileo\BookTemplate
+Springer\lab2_charles/lab2.tex"
+Cap\'{\i }tulo 2.
+
+LaTeX Warning: Citation `https://pt.wikipedia.org/wiki/LDR' on page 11 undefine
+d on input line 10.
+
+
+LaTeX Warning: Citation `https://learn.sparkfun.com/tutorials/analog-to-digital
+-conversion' on page 11 undefined on input line 15.
+
+[11
+
+
+
+
+] <lab2_charles/nivel_iluminacao_bb.png, id=92, 751.608pt x 430.408pt>
+File: lab2_charles/nivel_iluminacao_bb.png Graphic file (type png)
+
+<use lab2_charles/nivel_iluminacao_bb.png>
+Package pdftex.def Info: lab2_charles/nivel_iluminacao_bb.png used on input lin
+e 55.
+(pdftex.def)             Requested size: 450.96828pt x 258.2468pt.
+
+Overfull \hbox (32.71277pt too wide) in paragraph at lines 55--56
+ [][] 
  []
 
-[8] [9])) [10] (H:\Dropbox\Public\Galileo\Springer\monographs\templates\appendix.tex
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\latin1.def"
+File: latin1.def 2008/03/30 v1.1d Input encoding file
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\se-utf8.def"
+File: se-utf8.def 2011/12/02 v1.10 stringenc: UTF-8
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\se-iso-8859-1.def"
+File: se-iso-8859-1.def 2011/12/02 v1.10 stringenc: ISO-8859-1
+)
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+) [12] [13 <C:/Users/Charles/Downloads/Fritzing Galileo/freneticintelgalileo/Bo
+okTemplateSpringer/lab2_charles/nivel_iluminacao_bb.png>] [14]
+("C:\Users\Charles\Downloads\Fritzing Galileo\freneticintelgalileo\BookTemplate
+Springer\appendix.tex"
 Ap\^endice A.
 LaTeX Font Info:    Calculating math sizes for size <16> on input line 11.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <16> not available
@@ -434,55 +900,96 @@ LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <11.84009> not available
 (Font)              Font shape `OT1/ptm/b/n' tried instead on input line 11.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <9.6001> not available
 (Font)              Font shape `OT1/ptm/b/n' tried instead on input line 11.
-[11
+Package epstopdf Info: Source file: <figure.eps>
+(epstopdf)                    date: 2015-10-27 00:00:54
+(epstopdf)                    size: 65249 bytes
+(epstopdf)             Output file: <figure-eps-converted-to.pdf>
+(epstopdf)                    date: 2015-10-27 00:03:19
+(epstopdf)                    size: 13935 bytes
+(epstopdf)             Command: <epstopdf --outfile=figure-eps-converted-to.pdf
+ figure.eps>
+(epstopdf)             \includegraphics on input line 58.
+Package epstopdf Info: Output file is already uptodate.
+File: figure-eps-converted-to.pdf Graphic file (type pdf)
+<use figure-eps-converted-to.pdf>
+Package pdftex.def Info: figure-eps-converted-to.pdf used on input line 58.
+(pdftex.def)             Requested size: 90.68773pt x 127.22379pt.
+) [15
+
+
+
+
+] [16]
+("C:\Users\Charles\Downloads\Fritzing Galileo\freneticintelgalileo\BookTemplate
+Springer\glossary.tex") [17
+
+
 
 
 
 
 ]
-File: figure.eps Graphic file (type eps)
- <figure.eps>
-Overfull \hbox (0.61853pt too wide) in paragraph at lines 70--81
-[][]
- []
-
-) [12] (H:\Dropbox\Public\Galileo\Springer\monographs\templates\glossary.tex) [13
+("C:\Users\Charles\Downloads\Fritzing Galileo\freneticintelgalileo\BookTemplate
+Springer\solutions.tex" [18
 
 
 
 
-
-
-]
-(H:\Dropbox\Public\Galileo\Springer\monographs\templates\solutions.tex [14
-
-
-
-
-]) [15]
-(H:\Dropbox\Public\Galileo\Springer\monographs\templates\book.ind [16
+]) [19]
+("C:\Users\Charles\Downloads\Fritzing Galileo\freneticintelgalileo\BookTemplate
+Springer\book.ind" [20
 
 
 
-] [17])
-(H:\Dropbox\Public\Galileo\Springer\monographs\templates\book.aux
-(H:\Dropbox\Public\Galileo\Springer\monographs\templates\dedic.aux)
-(H:\Dropbox\Public\Galileo\Springer\monographs\templates\foreword.aux)
-(H:\Dropbox\Public\Galileo\Springer\monographs\templates\preface.aux)
-(H:\Dropbox\Public\Galileo\Springer\monographs\templates\acknow.aux)
-(H:\Dropbox\Public\Galileo\Springer\monographs\templates\acronym.aux)
-(H:\Dropbox\Public\Galileo\Springer\monographs\templates\part.aux)
-(H:\Dropbox\Public\Galileo\Springer\monographs\templates\chapter.aux)
-(H:\Dropbox\Public\Galileo\Springer\monographs\templates\appendix.aux)
-(H:\Dropbox\Public\Galileo\Springer\monographs\templates\glossary.aux)
-(H:\Dropbox\Public\Galileo\Springer\monographs\templates\solutions.aux)) ) 
+] [21])
+("C:\Users\Charles\Downloads\Fritzing Galileo\freneticintelgalileo\BookTemplate
+Springer\book.aux"
+("C:\Users\Charles\Downloads\Fritzing Galileo\freneticintelgalileo\BookTemplate
+Springer\dedic.aux")
+("C:\Users\Charles\Downloads\Fritzing Galileo\freneticintelgalileo\BookTemplate
+Springer\foreword.aux")
+("C:\Users\Charles\Downloads\Fritzing Galileo\freneticintelgalileo\BookTemplate
+Springer\preface.aux")
+("C:\Users\Charles\Downloads\Fritzing Galileo\freneticintelgalileo\BookTemplate
+Springer\acknow.aux")
+("C:\Users\Charles\Downloads\Fritzing Galileo\freneticintelgalileo\BookTemplate
+Springer\acronym.aux")
+("C:\Users\Charles\Downloads\Fritzing Galileo\freneticintelgalileo\BookTemplate
+Springer\part.aux")
+("C:\Users\Charles\Downloads\Fritzing Galileo\freneticintelgalileo\BookTemplate
+Springer\chapter.aux")
+("C:\Users\Charles\Downloads\Fritzing Galileo\freneticintelgalileo\BookTemplate
+Springer\lab2_charles/lab2.aux")
+("C:\Users\Charles\Downloads\Fritzing Galileo\freneticintelgalileo\BookTemplate
+Springer\appendix.aux")
+("C:\Users\Charles\Downloads\Fritzing Galileo\freneticintelgalileo\BookTemplate
+Springer\glossary.aux")
+("C:\Users\Charles\Downloads\Fritzing Galileo\freneticintelgalileo\BookTemplate
+Springer\solutions.aux"))
+
+LaTeX Warning: There were undefined references.
+
+ ) 
 Here is how much of TeX's memory you used:
- 2386 strings out of 429025
- 30040 string characters out of 3167800
- 91827 words of memory out of 3000000
- 5554 multiletter control sequences out of 15000+200000
- 62889 words of font info for 91 fonts, out of 3000000 for 9000
- 912 hyphenation exceptions out of 8191
- 31i,12n,24p,720b,317s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 5605 strings out of 493921
+ 82065 string characters out of 3144870
+ 362881 words of memory out of 3000000
+ 8645 multiletter control sequences out of 15000+200000
+ 92698 words of font info for 125 fonts, out of 3000000 for 9000
+ 841 hyphenation exceptions out of 8191
+ 41i,12n,49p,806b,1619s stack positions out of 5000i,500n,10000p,200000b,50000s
+{C:/Program Files (x86)/MiKTeX 2.9/fonts/enc/dvips/fontname/8r.enc}<C:/Progra
+m Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Program 
+Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program Fil
+es (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files
+ (x86)/MiKTeX 2.9/fonts/type1/urw/courier/ucrr8a.pfb><C:/Program Files (x86)/Mi
+KTeX 2.9/fonts/type1/urw/symbol/usyr.pfb><C:/Program Files (x86)/MiKTeX 2.9/fon
+ts/type1/urw/times/utmb8a.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/ur
+w/times/utmbi8a.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/urw/times/ut
+mr8a.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/urw/times/utmri8a.pfb>
+Output written on book.pdf (35 pages, 476465 bytes).
+PDF statistics:
+ 157 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 11 words of extra memory for PDF output out of 10000 (max. 10000000)
 
-Output written on book.pdf (31 pages).
